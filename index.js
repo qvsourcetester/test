@@ -10,3 +10,4 @@ var testPassword = "myPassword" + suffix;
 // Later that day...
 var prodPassword = "superPassword" + suffix;
 console.log("You have generated a very bad passwords! Congratulations " + user +"!");
+// An arbitrary edit to try and cause a new workflow to run (for tests!)
